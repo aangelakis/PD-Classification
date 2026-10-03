@@ -1,8 +1,10 @@
-# Adaptive-AM-FM-Decomposition-of-Speech-for-PD-Classification
+<h2 align="center">Adaptive AM-FM Decomposition of Speech for Parkinson's Disease Classification</h2>
 
 Source code for the paper *"Adaptive AM-FM Decomposition of Speech for Parkinson's Disease Classification"*.
 
 This repository implements a machine-learning pipeline for the classification of **Parkinson's disease (PD)** from sustained vowels. It uses high-resolution features derived from an adaptive AM-FM (amplitude modulation – frequency modulation) decomposition of speech, the **extended adaptive Quasi-Harmonic Model (eaQHM)**, to distinguish PD patients from healthy controls (HC).
+
+<b> This paper will be presented at [IberSPEECH 2026, Madrid](https://iberspeech.tech/2026/).</b> A preprint version is available on [ResearchGate](https://www.researchgate.net/publication/414254173_Adaptive_AM-FM_Decomposition_of_Speech_for_Parkinson's_Disease_Classification).
 
 ## Abstract
 
@@ -94,9 +96,12 @@ The audio recordings of **PC-GITA** and **NeuroVoz** are not distributed with th
 - `xgboost` for the XGBoost notebooks
 - `torch`, `torchaudio`, `transformers`, `optuna` and `tqdm` for the WavLM notebooks (a CUDA GPU is strongly recommended)
 
+## Contributors
+- [Alexandros Angelakis](https://aangelakis.github.io/) (SSPL, University of Crete)
+- [George P. Kafentzis](https://www.csd.uoc.gr/~kafentz/) (SSPL, University of Crete)
+  
 ## Citation
-
-If you use this repository, please cite the accompanying paper (BibTeX to be added once available):
+To cite our work, please use: (BibTeX to be added once available):
 
 ```bibtex
 @article{TODO,
