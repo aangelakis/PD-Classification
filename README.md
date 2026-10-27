@@ -4,7 +4,7 @@ Source code for the paper *"Adaptive AM-FM Decomposition of Speech for Parkinson
 
 This repository implements a machine-learning pipeline for the classification of **Parkinson's disease (PD)** from sustained vowels. It uses high-resolution features derived from an adaptive AM-FM (amplitude modulation – frequency modulation) decomposition of speech, the **extended adaptive Quasi-Harmonic Model (eaQHM)**, to distinguish PD patients from healthy controls (HC).
 
-<b> This paper will be presented at [IberSPEECH 2026, Madrid](https://iberspeech.tech/2026/).</b> A preprint version is available on [ResearchGate](https://www.researchgate.net/publication/414254173_Adaptive_AM-FM_Decomposition_of_Speech_for_Parkinson's_Disease_Classification).
+<b> This paper will be presented at [IberSPEECH 2026, Madrid](https://iberspeech.tech/2026/).</b> You can find our paper on the [ISCA Archive](https://www.isca-archive.org/tmp/iberspeech_2026/angelakis26_iberspeech.html).
 
 ## Abstract
 
