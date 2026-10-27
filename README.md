@@ -104,10 +104,12 @@ The audio recordings of **PC-GITA** and **NeuroVoz** are not distributed with th
 To cite our work, please use: (BibTeX to be added once available):
 
 ```bibtex
-@article{TODO,
-  title   = {Adaptive AM-FM Decomposition of Speech for Parkinson's Disease Classification},
-  author  = {TODO},
-  journal = {TODO},
-  year    = {TODO}
+@inproceedings{angelakis26_iberspeech,
+  title     = {{Adaptive AM-FM Decomposition of Speech for Parkinson's Disease Classification}},
+  author    = {Alexandros Angelakis and George P. Kafentzis},
+  year      = {2026},
+  booktitle = {{IberSPEECH 2026}},
+  pages     = {174--179},
+  doi       = {10.21437/IberSPEECH.2026-35},
 }
 ```
