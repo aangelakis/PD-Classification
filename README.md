@@ -101,7 +101,7 @@ The audio recordings of **PC-GITA** and **NeuroVoz** are not distributed with th
 - [George P. Kafentzis](https://www.csd.uoc.gr/~kafentz/) (SSPL, University of Crete)
   
 ## Citation
-To cite our work, please use: (BibTeX to be added once available):
+To cite our work, please use:
 
 ```bibtex
 @inproceedings{angelakis26_iberspeech,
